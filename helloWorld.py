@@ -1,7 +1,6 @@
 """Bella Manoim Hello World
 """
 
-helloWorldText = ('Hello, World!')
 
-print (helloWorldText)
+print ("Hello, World!")
 exit()
